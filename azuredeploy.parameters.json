@@ -1,0 +1,14 @@
+{
+  "storageAccountName": {
+    "value": "mesosonebox0901"
+  },
+  "adminUsername": {
+    "value": "azureuser"
+  },
+  "adminPassword": {
+    "value": "Docker4Me$"
+  },
+  "dnsNameForPublicIP": {
+    "value": "mesosonebox0901"
+  }
+}

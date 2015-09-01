@@ -1,0 +1,7 @@
+{
+  "itemDisplayName": "Create a Swarm + Mesos test cluster",
+  "description": "This template creates an Apache Mesos cluster with Marathon on a single node for testing purposes.",
+  "summary": "Create a Mesos one box cluster on Azure.",
+  "githubUsername": "anhowe",
+  "dateUpdated": "2015-09-01"
+}
